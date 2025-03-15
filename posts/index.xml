@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on The Stats Journey</title>
+    <link>https://ujmyhn.github.io/posts/</link>
+    <description>Recent content in Posts on The Stats Journey</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Mar 2025 15:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ujmyhn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的新文章</title>
-      <link>http://localhost:1313/posts/my-new-post/</link>
+      <link>https://ujmyhn.github.io/posts/my-new-post/</link>
       <pubDate>Sat, 15 Mar 2025 15:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-new-post/</guid>
+      <guid>https://ujmyhn.github.io/posts/my-new-post/</guid>
       <description>&lt;p&gt;這是我的第一篇 Hugo 文章！🎉&lt;/p&gt;</description>
     </item>
   </channel>
