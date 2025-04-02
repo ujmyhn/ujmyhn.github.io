@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Stats Journey</title>
-    <link>https://ujmyhn.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on The Stats Journey</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Mar 2025 15:00:00 +0800</lastBuildDate>
-    <atom:link href="https://ujmyhn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Apr 2025 20:55:13 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marginal model</title>
+      <link>http://localhost:1313/posts/marginal/</link>
+      <pubDate>Tue, 01 Apr 2025 20:55:13 +0800</pubDate>
+      <guid>http://localhost:1313/posts/marginal/</guid>
+      <description>本文介紹Marginal model，包含均值結構與變異數結構假設，以及GEE與MLE估計方式。</description>
+    </item>
     <item>
       <title>我的新文章</title>
-      <link>https://ujmyhn.github.io/posts/my-new-post/</link>
+      <link>http://localhost:1313/posts/my-new-post/</link>
       <pubDate>Sat, 15 Mar 2025 15:00:00 +0800</pubDate>
-      <guid>https://ujmyhn.github.io/posts/my-new-post/</guid>
+      <guid>http://localhost:1313/posts/my-new-post/</guid>
       <description>&lt;p&gt;這是我的第一篇 Hugo 文章！🎉&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://ujmyhn.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ujmyhn.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;母語R，第二外語SAS，記錄那些翻譯間發生的一切。&lt;/p&gt;</description>
     </item>
   </channel>
